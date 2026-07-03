@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class pq7{
+public class pq07{
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
 
