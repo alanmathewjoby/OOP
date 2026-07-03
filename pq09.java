@@ -1,4 +1,4 @@
-public class pq9{
+public class pq09{
     public static void main(String[] args) {
         int[] numbers = {34, 64, 25, 12, 22, 11, 90};
 
