@@ -1,4 +1,4 @@
-public class pq6 {
+public class pq06 {
 
 
 	public static void display(int array[]){
