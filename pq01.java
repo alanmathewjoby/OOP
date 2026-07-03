@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class pq1{
+public class pq01{
     public static void main (String args[]){
         Scanner scan = new Scanner(System.in);
         System.out.println("Enter radius length: \t");
